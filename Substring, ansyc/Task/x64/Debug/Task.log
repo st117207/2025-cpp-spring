@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\belob\2025-cpp-spring\Substring, ansyc\Task\Source.cpp(11,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\belob\2025-cpp-spring\Substring, ansyc\Task\Source.cpp(12,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\belob\2025-cpp-spring\Substring, ansyc\Task\Source.cpp(25,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\belob\2025-cpp-spring\Substring, ansyc\Task\Source.cpp(26,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Task.vcxproj -> C:\Users\belob\2025-cpp-spring\Substring, ansyc\x64\Debug\Task.exe

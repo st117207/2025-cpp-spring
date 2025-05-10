@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\",
+  "WorkspaceRootPath": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B1707BE-8FE2-4756-AC96-2F856BD6D7A4}|ansyc\\ansyc.vcxproj|C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\ansyc\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B1707BE-8FE2-4756-AC96-2F856BD6D7A4}|ansyc\\ansyc.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\ansyc\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B1707BE-8FE2-4756-AC96-2F856BD6D7A4}|ansyc\\ansyc.vcxproj|solutionrelative:ansyc\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FFB5E4D-1573-49F1-8EE9-928817C19EEA}|parallel for\\parallel for.vcxproj|C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel for\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5FFB5E4D-1573-49F1-8EE9-928817C19EEA}|parallel for\\parallel for.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel for\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5FFB5E4D-1573-49F1-8EE9-928817C19EEA}|parallel for\\parallel for.vcxproj|solutionrelative:parallel for\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8BDB701-7A4C-4758-ABB0-A88A305C4799}|parallel sections\\parallel sections.vcxproj|C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel sections\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F8BDB701-7A4C-4758-ABB0-A88A305C4799}|parallel sections\\parallel sections.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel sections\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8BDB701-7A4C-4758-ABB0-A88A305C4799}|parallel sections\\parallel sections.vcxproj|solutionrelative:parallel sections\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D72B95-2D7A-4623-B5AB-5A3A52160C45}|consistently\\consistently.vcxproj|C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{18D72B95-2D7A-4623-B5AB-5A3A52160C45}|consistently\\consistently.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{18D72B95-2D7A-4623-B5AB-5A3A52160C45}|consistently\\consistently.vcxproj|solutionrelative:consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\ansyc\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\ansyc\\Source.cpp",
               "RelativeDocumentMoniker": "ansyc\\Source.cpp",
-              "ToolTip": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\ansyc\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\ansyc\\Source.cpp",
               "RelativeToolTip": "ansyc\\Source.cpp",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-10T13:07:02.518Z",
               "EditorCaption": ""
@@ -45,40 +45,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\consistently\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\consistently\\Source.cpp",
               "RelativeDocumentMoniker": "consistently\\Source.cpp",
-              "ToolTip": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\consistently\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\consistently\\Source.cpp",
               "RelativeToolTip": "consistently\\Source.cpp",
               "ViewState": "AQIAAA0AAAAAAAAAAAAowBoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T13:06:03.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:06:03.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel sections\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel sections\\Source.cpp",
               "RelativeDocumentMoniker": "parallel sections\\Source.cpp",
-              "ToolTip": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel sections\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel sections\\Source.cpp",
               "RelativeToolTip": "parallel sections\\Source.cpp",
               "ViewState": "AQIAACwAAAAAAAAAAAAowD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T13:03:38.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:03:38.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel for\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel for\\Source.cpp",
               "RelativeDocumentMoniker": "parallel for\\Source.cpp",
-              "ToolTip": "C:\\Users\\belob\\source\\repos\\Integral using trapezoidal formula\\parallel for\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Integral using trapezoidal formula\\parallel for\\Source.cpp",
               "RelativeToolTip": "parallel for\\Source.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T12:37:47.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T12:37:47.247Z"
             }
           ]
         }

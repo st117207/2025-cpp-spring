@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C8400B-7B88-4B15-8D73-4CEF3C5CF0C5}|consistently\\consistently.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75C8400B-7B88-4B15-8D73-4CEF3C5CF0C5}|consistently\\consistently.vcxproj|solutionrelative:consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F46C54-8876-4CE2-8A8E-75EEA9402FCE}|parallel\\parallel.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\parallel\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F46C54-8876-4CE2-8A8E-75EEA9402FCE}|parallel\\parallel.vcxproj|solutionrelative:parallel\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\consistently\\Source.cpp",
+              "RelativeDocumentMoniker": "consistently\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\consistently\\Source.cpp",
+              "RelativeToolTip": "consistently\\Source.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:56:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\parallel\\Source.cpp",
+              "RelativeDocumentMoniker": "parallel\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Gauss-Jordan method\\parallel\\Source.cpp",
+              "RelativeToolTip": "parallel\\Source.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:55:35.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8111F93-2E91-4F46-A6A5-52638F0A7CE0}|parallel sections\\parallel sections.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\parallel sections\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8111F93-2E91-4F46-A6A5-52638F0A7CE0}|parallel sections\\parallel sections.vcxproj|solutionrelative:parallel sections\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA7E57-8BAC-4950-B47F-C473FEBCAED0}|consistently\\consistently.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEAA7E57-8BAC-4950-B47F-C473FEBCAED0}|consistently\\consistently.vcxproj|solutionrelative:consistently\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\parallel sections\\Source.cpp",
+              "RelativeDocumentMoniker": "parallel sections\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\parallel sections\\Source.cpp",
+              "RelativeToolTip": "parallel sections\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:38:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\consistently\\Source.cpp",
+              "RelativeDocumentMoniker": "consistently\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Prime numbers\\consistently\\Source.cpp",
+              "RelativeToolTip": "consistently\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:38:24.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

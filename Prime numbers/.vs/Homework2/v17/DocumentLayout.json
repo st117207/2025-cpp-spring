@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belob\\source\\repos\\Homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAA7E57-8BAC-4950-B47F-C473FEBCAED0}|Test1\\Test1.vcxproj|C:\\Users\\belob\\source\\repos\\Homework2\\Test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEAA7E57-8BAC-4950-B47F-C473FEBCAED0}|Test1\\Test1.vcxproj|solutionrelative:Test1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8111F93-2E91-4F46-A6A5-52638F0A7CE0}|Test2\\Test2.vcxproj|C:\\Users\\belob\\source\\repos\\Homework2\\Test2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8111F93-2E91-4F46-A6A5-52638F0A7CE0}|Test2\\Test2.vcxproj|solutionrelative:Test2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Homework2\\Test2\\Source.cpp",
+              "RelativeDocumentMoniker": "Test2\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\source\\repos\\Homework2\\Test2\\Source.cpp*",
+              "RelativeToolTip": "Test2\\Source.cpp*",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T20:52:08.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Homework2\\Test1\\Source.cpp",
+              "RelativeDocumentMoniker": "Test1\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\source\\repos\\Homework2\\Test1\\Source.cpp",
+              "RelativeToolTip": "Test1\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T20:51:05.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\belob\2025-cpp-spring\Gauss-Jordan method\parallel\Source.cpp(9,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\2025-cpp-spring\Gauss-Jordan method\parallel\Source.cpp(15,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  parallel.vcxproj -> C:\Users\belob\2025-cpp-spring\Gauss-Jordan method\x64\Debug\parallel.exe

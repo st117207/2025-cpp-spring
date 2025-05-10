@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belob\\2025-cpp-spring\\Substring, ansyc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67536CC-4459-41AC-A200-BFAB857F8CAA}|Task\\Task.vcxproj|C:\\Users\\belob\\2025-cpp-spring\\Substring, ansyc\\Task\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B67536CC-4459-41AC-A200-BFAB857F8CAA}|Task\\Task.vcxproj|solutionrelative:Task\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\2025-cpp-spring\\Substring, ansyc\\Task\\Source.cpp",
+              "RelativeDocumentMoniker": "Task\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\2025-cpp-spring\\Substring, ansyc\\Task\\Source.cpp",
+              "RelativeToolTip": "Task\\Source.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T20:18:46.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

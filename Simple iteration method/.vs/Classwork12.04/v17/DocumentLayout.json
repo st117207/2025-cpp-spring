@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belob\\source\\repos\\Classwork12.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F627B1C5-4E83-4F8D-BE97-108D6EE229D0}|Classwork12.04 Parallel\\Classwork12.04 Parallel.vcxproj|C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04 Parallel\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F627B1C5-4E83-4F8D-BE97-108D6EE229D0}|Classwork12.04 Parallel\\Classwork12.04 Parallel.vcxproj|solutionrelative:Classwork12.04 Parallel\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD88FF9D-E2F9-48DE-A3AC-DFB82257EC07}|Classwork12.04\\Classwork12.04.vcxproj|C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD88FF9D-E2F9-48DE-A3AC-DFB82257EC07}|Classwork12.04\\Classwork12.04.vcxproj|solutionrelative:Classwork12.04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04 Parallel\\Source.cpp",
+              "RelativeDocumentMoniker": "Classwork12.04 Parallel\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04 Parallel\\Source.cpp",
+              "RelativeToolTip": "Classwork12.04 Parallel\\Source.cpp",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T13:45:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04\\Source.cpp",
+              "RelativeDocumentMoniker": "Classwork12.04\\Source.cpp",
+              "ToolTip": "C:\\Users\\belob\\source\\repos\\Classwork12.04\\Classwork12.04\\Source.cpp",
+              "RelativeToolTip": "Classwork12.04\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T13:34:53.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
