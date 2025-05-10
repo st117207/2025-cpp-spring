@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(8,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(14,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(53,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(54,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(55,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(57,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(58,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\belob\source\repos\Least squares method\Least squares method\Source.cpp(59,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Least squares method.vcxproj -> C:\Users\belob\source\repos\Least squares method\x64\Debug\Least squares method.exe

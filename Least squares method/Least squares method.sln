@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Least squares method", "Least squares method\Least squares method.vcxproj", "{E443DEA4-31FB-4B56-9E75-857F523EC51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Debug|x64.ActiveCfg = Debug|x64
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Debug|x64.Build.0 = Debug|x64
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Debug|x86.Build.0 = Debug|Win32
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Release|x64.ActiveCfg = Release|x64
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Release|x64.Build.0 = Release|x64
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Release|x86.ActiveCfg = Release|Win32
+		{E443DEA4-31FB-4B56-9E75-857F523EC51E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E804B43-280B-4256-BFC7-3EE2EE521208}
+	EndGlobalSection
+EndGlobal
